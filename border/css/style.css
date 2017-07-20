@@ -1,0 +1,19 @@
+h1 {
+  font-family: Arial;
+  color: #F84D4D;
+}
+
+canvas {
+  width: 400px;
+  height: 200px;
+  border: 1px solid lightgray;
+}
+
+input {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+#thicknessIp {
+  width: 50px;
+}
